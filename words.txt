@@ -472,3 +472,4 @@ ballpark = estadio de béisbol
 footstep = paso, pisada
 punch = ponche, puñetazo, perforadora, fuerza, pegada, sacabocados, energía, golpear, taladrar, dar un puñetazo, aguijonear
 wildderness = desierto, yermo
+heck = infierno, interjección ¡demonio
