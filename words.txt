@@ -458,3 +458,7 @@ insofar = en la medida
 foreboding = presentimiento, pensamiento
 foxtrot = a type of dance
 arguably = podría decirse que
+snazzy = elegante
+boast = jactarse, presumir de, alardear, ufanarse, alabarse, vanagloriarse de tener, alarde, jactancia
+glossy = lustroso
+peer = pares, par, igual, mirar, mirar con atención, aparecer, elevar a la dignidad de par, compañero
