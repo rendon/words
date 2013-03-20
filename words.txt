@@ -475,3 +475,7 @@ wildderness = desierto, yermo
 heck = infierno, interjección ¡demonio
 hatred = odio, detesto
 rusty = oxidado, enmohecido, aherrumbrado, color de orín
+fleeting = fugaz, efímero, pasajero, rápido
+<<<<<<< HEAD
+=======
+>>>>>>> c74590962e0c146f7b03299b0d49af2bb50e834c
