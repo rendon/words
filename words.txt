@@ -476,3 +476,4 @@ heck = infierno, interjección ¡demonio
 hatred = odio, detesto
 rusty = oxidado, enmohecido, aherrumbrado, color de orín
 fleeting = fugaz, efímero, pasajero, rápido
+awry = torcido, desviado, de través, desviadamente, torcidamente
