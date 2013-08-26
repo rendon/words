@@ -1,0 +1,198 @@
+// Abreviaturas en el Diccionario de la lengua española
+// ====================================================
+// abrev.            abreviatura
+// a. C.             antes de Cristo
+// ACÚST.            acústica
+// adj.              adjetivo/adjetiva
+// adj. num. card.   adjetivo numeral cardinal
+// adj. num. frac.   adjetivo numeral fraccionario
+// adj. num. mult.   adjetivo numeral multiplicativo
+// adj. num. ord.    adjetivo numeral ordinal
+// adv.              adverbio/adverbial
+// adv. a.           adverbio de afirmación
+// adv. c.           adverbio de cantidad
+// advers.           adversativo/adversativa
+// adv. interrog. l. adverbio interrogativo de lugar
+// adv. l.           adverbio de lugar
+// adv. lat.         adverbio latino
+// adv. m.           adverbio de modo
+// adv. neg.         adverbio de negación
+// adv. ord.         adverbio de orden
+// adv. relat. l.    adverbio relativo de lugar
+// adv. t.           adverbio de tiempo
+// AERON.            aeronáutica
+// afirm.            afirmativo/afirmativa
+// voz al.           alemán/alemana (voz)
+// ALBAÑ.            albañilería
+// ÁLG.              álgebra
+// amb.              ambiguo
+// amer.             americanismo
+// ANAT.             anatomía
+// ant.              antiguo/antigua
+// APIC.             apicultura
+// apóc.             apócope
+// aprox.            aproximado/aproximadamente
+// voz ár.           árabe (voz)
+// ARIT.             aritmética
+// ARQUEOL.          arqueología
+// ARQUIT.           arquitectura
+// art.              artículo
+// ART.              arte
+// asev.             aseverativo/aseverativa
+// ASTROL.           astrología
+// ASTRON.           astronomía
+// ASTRONÁUT.        astronáutica
+// aum.              aumentativo
+// AUTOM.            automovilismo
+// aux.              auxiliar
+// BACTER.           bacteriología
+// BIOL.             biología
+// BIOQUÍM.          bioquímica
+// BOT.              botánica
+// cant.             cantidad
+// card.             cardinal
+// CARP.             carpintería
+// voz cat.          catalán/catalana (voz)
+// CIB.              cibernética
+// CIN.              cinematografía
+// CINEG.            cinegética
+// CIR.              cirugía
+// col.              coloquial
+// com.              común (genero)
+// COM.              comercio
+// comp.             comparativo/comparativa
+// conc.             concesivo/concesiva
+// cond.             condicional
+// conj.             conjugación/conjuga
+// conj. ad.         conjugación adversativa
+// conj. conc.       conjugación concesiva
+// conj. cond.       conjugación condicional
+// conj. cop.        conjugación copulativa
+// conj. distr.      conjugación distributiva
+// conj. disy.       conjugación disyuntiva
+// conj. ilat.       conjugación ilativa
+// conjug.           conjugación
+// contr.            contracción
+// cop.              copulativo
+// d. C.             después de Cristo
+// def.              defectivo
+// dem.              demostrativo
+// DEP.              deportes
+// DER.              derecho
+// desp.             despectivo
+// dim.              diminutivo
+// distr.            distributivo/distributiva
+// disy.             disyuntivo/disyuntiva
+// ECOL.             ecología
+// ECON.             economía
+// ej.               ejemplo
+// ELECTR.           electricidad
+// ELECTRÓN.         electrónica
+// ESC.              escultura
+// ESTAD.            estadística
+// etc.              etcétera
+// excl.             exclamativo/exclamativa/exclamación
+// expr.             expresión
+// f.                femenino (sustantivo)
+// FILOS.            filosofía
+// FÍS.              física
+// FON.              fonética
+// FORT.             fortificación
+// voz fr.           francés/francesa (voz)/frase
+// GENÉT.            genética
+// GEOG.             geografía
+// GEOL.             geología
+// GEOM.             geometría
+// GRAM.             gramática
+// HERÁLD.           heráldica
+// HISTOL.           histología
+// voz i.            inglés/inglesa (voz)
+// ilat.             ilativa
+// impers.           impersonal
+// IMPR.             imprenta
+// indef.            indefinido
+// indet.            indeterminado
+// INFORM.           informática
+// interj.           interjección
+// interrog.         interrogativo/interrogativa
+// intr.             intransitivo
+// irón.             irónico/irónica
+// irreg.            irregular
+// voz it.           italiano/italiana (voz)
+// lat.              latín/latino/latina
+// LING.             lingüística
+// LIT.              literatura
+// loc.              locución
+// loc. adj.         locución adjetiva
+// loc. adv.         locución adverbial
+// loc. conj. conc.  locución conjuntiva concesiva
+// loc. conjunt.     locución conjuntiva
+// loc. interj.      locución interjectiva
+// loc. prepos.      locución prepositiva
+// LÓG.              lógica
+// m.                masculino (sustantivo)
+// MAR.              marina
+// MAT.              matemáticas
+// MEC.              mecánica
+// MED.              medicina
+// METAL.            metalurgia
+// METEOR.           meteorología
+// MÉTR.             métrica
+// MICROBIOL.        microbiología
+// MIL.              milicia
+// MIN.              minería
+// MINER.            mineralogía
+// MIT.              mitología
+// MÚS.              música
+// n.                nombre/neutro
+// voz neerl.        neerlandés/neerlandesa (voz)
+// n. p.             nombre propio
+// NUMISM.           numismática
+// onomat.           onomatopeya
+// ÓPT.              óptica
+// ORTOGR.           ortografía
+// p.                participio
+// PALEONT.          paleontología
+// p. ant.           por antonomasia
+// PAT.              patología
+// p. ej.            por ejemplo
+// pers.             persona/personal
+// p. ext.           por extensión
+// PINT.             pintura
+// pl.               plural
+// poét.             poético/poética
+// POL.              política
+// POS.              posesivo
+// p. p.             participio pasado
+// pref.             prefijo
+// prep.             preposición
+// prnl.             pronominal (verbo)
+// pron.             pronombre
+// PSICOL.           psicología
+// PSIQUIAT.         psiquiatría
+// QUÍM.             química
+// reg.              regular
+// REL.              religión
+// relat.            relativo
+// RET.              retórica
+// s.                sustantivo/siglo
+// sing.             singular
+// SOCIOL.           sociología
+// suf.              sufijo
+// sup.              superlativo
+// t.                temporal/tiempo
+// TAUROM.           tauromaquia
+// TECNOL.           tecnología
+// TEOL.             teología
+// terciop.          terciopersonal
+// TOPOG.            topografía
+// tr.               transitivo
+// TV.               televisión
+// v.                verbo
+// VETER.            veterinaria
+// vulg.             vulgar
+// ZOOL.             zoología
+// *                 "Delante de una palabra o frase, indica un ejemplo de uso incorrecto o agramatical"
+// ?                 Aclaración gramatical
+// -----------------------------------------------------------------------------------------------------
+relegar = tr. Apartar, posponer
